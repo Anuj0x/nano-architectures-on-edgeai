@@ -1,4 +1,4 @@
-# μNAS v2.0
+
 
 A modern, efficient neural architecture search framework foar finding ultra-small models optimized for microcontrollers. Features advanced resource-aware search algorithms, clean CLI, and comprehensive type safety.
 
